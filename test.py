@@ -24,6 +24,7 @@ Principais vantagens:
 - Colaboração
 - Forks - Pegar um projeto
 https://octodex.github.com/ - site do mascotes GitHub personalizados
-
-
+- Issues - perguntar ou ajudar
+* Por uma bolinha
+** colocar em negrito
 '''
