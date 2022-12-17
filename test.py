@@ -27,4 +27,5 @@ https://octodex.github.com/ - site do mascotes GitHub personalizados
 - Issues - perguntar ou ajudar
 * Por uma bolinha
 ** colocar em negrito
+Saved Replies
 '''
