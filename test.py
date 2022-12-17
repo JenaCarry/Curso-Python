@@ -25,7 +25,11 @@ Principais vantagens:
 - Forks - Pegar um projeto
 https://octodex.github.com/ - site do mascotes GitHub personalizados
 - Issues - perguntar ou ajudar
+- Markdown ou .md / Onde usar:
+1º README
+2º Issues
+3º Pull request
 * colocar em itálico
-** colocar em negrito
+** ou __ colocar em negrito
 Saved Replies
 '''
